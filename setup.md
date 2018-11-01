@@ -4,8 +4,6 @@ title: Setup
 root: .
 ---
 
-This lesson assumes you have the R, RStudio software installed on your computer.
-
 R can be downloaded [here](https://cran.r-project.org/mirrors.html).
 
 RStudio is an environment for developing using R.
