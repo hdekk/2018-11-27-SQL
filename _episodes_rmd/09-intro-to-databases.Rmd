@@ -10,6 +10,13 @@ if (file.exists("portal-database.sqlite")) file.remove("portal-database.sqlite")
 
 ------------
 
+> ### Learning Objectives
+>
+> * Access a database from R.
+> * Run SQL queries in R using **`RSQLite`** and **`dplyr`**.
+> * Create an SQLite database from existing .csv files.
+
+------------
 ## Setup
 
 _Note: this should have been done by participants before the start of the workshop._
